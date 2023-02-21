@@ -24,7 +24,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👩‍💻💻⌨ About Me : 
 I am a 12+ years experienced Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania.
 - :telescope: I’m working on frontend and some backend for enterprise web applications.
 
