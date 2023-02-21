@@ -30,7 +30,7 @@ I am a 12+ years experienced Frontend Developer <img src="https://media.giphy.co
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Iliutastoica)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Iliutastoica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Iliutastoica)
 
 
 ------------------
