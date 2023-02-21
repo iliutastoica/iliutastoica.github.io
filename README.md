@@ -1,4 +1,38 @@
-### Hi there 👋 I'm a 12+ years experienced frontend developer
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/Iliutastoica" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+    <a href="https://www.facebook.com/Iliuta.stoica " target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    </a>
+    <a href="https://www.github.com/Iliutastoica" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=iliutastoica&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hi there 👋 I'm a 12+ years experienced frontend developer
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a 12+ years experienced Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania.
+- :telescope: I’m working on frontend and some backend for enterprise web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Iliutastoica)
+
+
 ------------------
 * 🌍  I'm based in Bucharest
 * 🖥️  See my portfolio at [https://ilistoica.dev](http://Iliutastoica.ro)
