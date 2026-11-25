@@ -1,0 +1,12 @@
+Model Information:
+* title:	Bald cartoon casual male character
+* source:	https://sketchfab.com/3d-models/bald-cartoon-casual-male-character-2c4d0f009abb4b859589c72fb4cb4378
+* author:	doublesob (https://sketchfab.com/ssorpeg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bald cartoon casual male character" (https://sketchfab.com/3d-models/bald-cartoon-casual-male-character-2c4d0f009abb4b859589c72fb4cb4378) by doublesob (https://sketchfab.com/ssorpeg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Modifications in this integration: the original rig and pose animations have been modified. No separate modification source URL is claimed.
