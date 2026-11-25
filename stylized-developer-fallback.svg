@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 650" fill="none" role="img" aria-label="Stylized illustration of a person at a laptop">
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(260 0 0 260 470 265)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#757F87" stop-opacity=".4"/><stop offset="1" stop-color="#757F87" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screen" x1="306" x2="453" y1="353" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#47555F"/><stop offset="1" stop-color="#192B37"/>
+    </linearGradient>
+  </defs>
+  <circle cx="470" cy="265" r="260" fill="url(#glow)"/>
+  <path d="m223 0 497 0v650H75L622 0h98Z" fill="#BABFC3" fill-opacity=".18"/>
+  <path d="m470 64 250 179v407H295L628 162 470 64Z" fill="#192B37" fill-opacity=".2"/>
+  <ellipse cx="415" cy="565" rx="226" ry="31" fill="#192B37" fill-opacity=".5"/>
+  <path d="M380 260c-58 0-95 41-95 103v63c0 30 25 54 55 54h113c31 0 56-24 56-54v-69c0-57-47-97-129-97Z" fill="#30404B"/>
+  <path d="M362 253c-8-17-7-34 0-49h71c8 17 7 34-1 49l-35 33-35-33Z" fill="#A3AAAF"/>
+  <ellipse cx="397" cy="168" rx="59" ry="70" fill="#BABFC3"/>
+  <path d="M340 165c1-49 25-79 62-79 33 0 56 24 58 68-19-4-38-15-53-32-14 20-38 35-67 43Z" fill="#47555F" fill-opacity=".7"/>
+  <path d="M365 166h8m49 0h8" stroke="#192B37" stroke-linecap="round" stroke-width="5"/>
+  <path d="m397 169-3 16h8" stroke="#47555F" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M385 199c8 5 17 5 25 0" stroke="#47555F" stroke-linecap="round" stroke-width="3"/>
+  <path d="m325 335-43 48 45 61m144-109 48 45-49 61" stroke="#30404B" stroke-linecap="round" stroke-width="36"/>
+  <path d="m347 441-47 77m125-72 37 72" stroke="#47555F" stroke-linecap="round" stroke-width="42"/>
+  <path d="m292 516-62 20c-15 5-12 26 4 26h94l16-17-52-29Zm170 0 58 20c16 5 13 26-3 26h-91l-15-17 51-29Z" fill="#192B37"/>
+  <path d="M284 355h195v128H284z" fill="#8C959B"/>
+  <path d="M296 367h171v101H296z" fill="url(#screen)"/>
+  <path d="M274 483h215l27 16H247l27-16Z" fill="#D1D5D7"/>
+  <path d="M350 489h63" stroke="#757F87" stroke-linecap="round" stroke-width="4"/>
+  <path d="M379 414c13-13 31-13 43 0-12 14-30 14-43 0Z" stroke="#FF5640" stroke-width="3"/>
+  <circle cx="401" cy="414" r="5" fill="#FF5640"/>
+</svg>
